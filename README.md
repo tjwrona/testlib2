@@ -1,4 +1,4 @@
-<img src="images/tnt.png" alt="drawing" width="100"/>
+![](images/tnt.png)
 
 # testlib2
 This is another TEST!
