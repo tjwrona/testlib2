@@ -1,4 +1,4 @@
-# <img src="images/tnt.png" alt="drawing" width="200"/> TNT Coders
+![tnt-coders](images/tnt-coders.png)
 
 # testlib2
 This is another TEST!
